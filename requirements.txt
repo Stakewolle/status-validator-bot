@@ -1,0 +1,6 @@
+prometheus_client
+requests
+aiogram
+asyncpg
+aiohttp
+mailchimp-transactional
