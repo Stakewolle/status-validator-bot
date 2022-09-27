@@ -1,9 +1,10 @@
 # status-validator-bot
 Simple Telegram bot for Cosmos-validators tracking
+The bot will notify if validator is jailed or inactive. So you don't need to waste time searching for your validator in the long list.
 
 ## Installation
 1. Setup requirements: `pip install -r requirements.txt`
-2. Set tg bot token in env. Example:
+2. Set telegram bot token in env. Example:
 ```
 POSTGRES_HOST=postgres
 POSTGRES_DB_NAME=bot
