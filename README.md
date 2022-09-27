@@ -1,5 +1,5 @@
 # status-validator-bot
-Simple Telegram bot for Cosmos-validators tracking
+Simple Telegram bot for Cosmos-validators tracking.
 The bot will notify if validator is jailed or inactive. So you don't need to waste time searching for your validator in the long list.
 
 ## Installation
