@@ -12,6 +12,8 @@ Functions:
 
 /start - opens a welcome message and basic info
 
+/help - opens a basic info about the bot and link to Stakewolle chat
+
 /wallet - opens a list of your wallets and _Add address_ and _Remove address_ buttons
 
 Add address - adds new wallet
