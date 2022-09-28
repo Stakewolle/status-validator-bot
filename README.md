@@ -1,4 +1,4 @@
-# status-validator-bot
+# Status Validator Bot
 Simple Telegram bot for Cosmos-validators tracking.
 
 To avoid situations when, for one reason or another, you find out late that your validator is not active or has been jailed, we have created a bot. So you don't need to waste time searching for your validator in the long list of explorers. The bot updates every 3 hours and it will notify you if there is a problem.
