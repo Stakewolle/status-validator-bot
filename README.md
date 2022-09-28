@@ -12,11 +12,11 @@ Functions:
 
 /start - opens a welcome message and basic info
 
-/wallet - opens a list of your wallets and /add and /remove buttons
+/wallet - opens a list of your wallets and _Add address_ and _Remove address_ buttons
 
-/add - adds new wallet
+Add address - adds new wallet
 
-/remove - opens a menu to remove the wallet
+Remove address - opens a menu to remove a wallet
 
 ## Installation
 1. Setup requirements: `pip install -r requirements.txt`
