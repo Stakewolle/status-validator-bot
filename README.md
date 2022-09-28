@@ -11,9 +11,9 @@ All you have to do is:
 
 Functions:
 
-/start - welcome message and basic info
+/start - opens a welcome message and basic info
 
-/wallet - list of your wallets and /add and /remove buttons
+/wallet - opens a list of your wallets and /add and /remove buttons
 
 /add - adds new wallet
 
