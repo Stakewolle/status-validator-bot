@@ -10,9 +10,13 @@ All you have to do is:
 
 
 Functions:
+
 /start - welcome message and basic info
+
 /wallet - list of your wallets and /add and /remove buttons
+
 /add - adds new wallet
+
 /remove - opens a menue to remove wallet
 
 ## Installation
